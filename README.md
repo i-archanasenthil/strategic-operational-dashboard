@@ -7,6 +7,7 @@ Power BI is an incredibly versatile **visualization** tool that offers end-to-en
 2) **Power Query Editor:** Transform and clean your data effortlessly.
 
 3) **Data Visualizations:** Create strategic and operational dashboards to drive business decisions.
+
 🔍 The visualizations are **interactive**, with **cross-filter and drill-down features**, allowing you to dive deeper into the data for more insightful analysis.
 
 4) **DAX Measures:** Build custom calculations to analyze your data and gain deeper insights.
